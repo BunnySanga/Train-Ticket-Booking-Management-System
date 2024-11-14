@@ -78,15 +78,10 @@ This project is a command-line **Train Ticket Booking Management System** develo
 
 Contributions are welcome! Please fork the repository, make changes, and submit a pull request. For any significant changes, please open an issue to discuss your proposed modifications.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 ### Author
-- **Sanga Balanarsimha** – [GitHub](https://github.com/BunnySanga/Train-Ticket-Booking-Management-System)
-
+- **Sanga Balanarsimha** – [GitHub](https://github.com/BunnySanga)
 ---
 
 Thank you for using the Railway Reservation System!
